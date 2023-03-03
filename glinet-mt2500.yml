@@ -17,11 +17,11 @@ feeds:
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
-    revision: 85b06ca4a3544b127c1f1614866e1c7ab6cadb44
+    revision: 103d08315af4f3748e238bb6d47d05ad23f33145
   - name: small_package
     uri: https://github.com/kenzok8/small-package.git
     branch: main
-    revision: d6700eb193cdc34a5970f2e77a4545cf712d6efa
+    revision: c7bde8792bd519aa2350ea620cabc5300af85779
 packages:
   - tailscale:gl_feed_common
   - fwdd
