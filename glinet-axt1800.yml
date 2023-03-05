@@ -27,6 +27,14 @@ feeds:
     uri: https://github.com/kenzok8/small-package.git
     branch: main
     revision: b71a171c128a93235fb6a9c8a5e9f0a6c4c02691
+  - name: jd_dailybonus
+    uri: https://github.com/jerrykuku/luci-app-jd-dailybonus
+    branch: master
+    revision: f5b6efca5048e98688c446acbf934ced173a01c3
+  - name: lienol_packages
+    uri: https://github.com/Lienol/openwrt-package.git
+    branch: main
+    revision: acec8b9d6f61e125823f23cbca0ab015d1b5c528
 include: []
 packages:
   - kmod-hwmon-pwmfan
