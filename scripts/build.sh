@@ -2,18 +2,18 @@
 PWD=$(pwd)
 
 echo "请选择构建设备："
-echo "1. AX1800"
-echo "2. AXT1800"
+echo "1. mt2500"
+echo "2. mt2500"
 read input
 
 case $input in
 1)
 		echo "构建AX1800"
-		DEVICE="ax1800"
+		DEVICE="mt2500"
 		;;
 2)
 		echo "构建AXT1800"
-		DEVICE="axt1800"
+		DEVICE="amt2500"
 		;;
 esac
 
