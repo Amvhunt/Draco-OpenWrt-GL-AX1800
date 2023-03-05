@@ -31,14 +31,14 @@ module.exports = [
 //     uri: 'https://github.com/kiddin9/openwrt-packages.git',
 //     branch: 'master',
 //   },
-//   {
-//     name: 'jd_dailybonus',
-//     uri: 'https://github.com/jerrykuku/luci-app-jd-dailybonus',
-//     branch: 'master',
-//   },
-//   {
-//     name: 'lienol_packages',
-//     uri: 'https://github.com/Lienol/openwrt-package.git',
-//     branch: 'main',
-//   },
+   {
+     name: 'jd_dailybonus',
+     uri: 'https://github.com/jerrykuku/luci-app-jd-dailybonus',
+     branch: 'master',
+   },
+   {
+     name: 'lienol_packages',
+     uri: 'https://github.com/Lienol/openwrt-package.git',
+     branch: 'main',
+   },
 ];
