@@ -21,7 +21,7 @@ feeds:
   - name: kenzok8_packages
     uri: https://github.com/kenzok8/openwrt-packages.git
     branch: master
-    revision: 7291a9f011d7713fc4acdafe8da596e2433ee089
+    revision: 26e27975adf7ed982650dfb0a84df8927cd2a696
   - name: immortalwrt_luci
     uri: https://github.com/immortalwrt/luci.git
     branch: openwrt-21.02
